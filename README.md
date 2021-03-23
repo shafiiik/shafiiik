@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on LiveRep (a flutter project)
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working on LiveRep,easy commerce 
+- 🌱 I’m currently working as Flutter developer
 - 👯 I’m looking to collaborate on open source project
 - 💬 Ask me about flutter
 - 📫 How to reach me: minashafik90@gmail.com

@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on LiveRep,easy commerce 
-- 🌱 I’m currently working as Flutter developer at simple brilliant solutions SBS
+- 🌱 I’m currently working as Software Engineer at simple brilliant solutions SBS
 - 👯 I’m looking to collaborate on open source project
-- 💬 Ask me about flutter
+- 💬 Ask me about flutter , .Net
 - 📫 How to reach me: minashafik90@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
